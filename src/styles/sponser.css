@@ -1,0 +1,18 @@
+.sponser{
+    margin: 100px 0px;
+    text-align: center;
+    height: 20vh;
+
+}
+button.slick-arrow.slick-prev,
+button.slick-arrow.slick-next{
+    display: none !important;
+}
+
+.sponser img{
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    height: 15vh;
+
+}

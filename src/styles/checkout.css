@@ -1,0 +1,26 @@
+.checkout{
+    display: block;
+    height: max-content;
+}
+.chekout__content{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 20px;
+    
+}
+.checkout__ad{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 10px;
+   
+}
+.checkout__title{
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+    color: #fff;
+}
+.checkout__left h3{
+    color: yellow;
+    letter-spacing: 1px;
+    line-height: 2;
+}

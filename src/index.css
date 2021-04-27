@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  text-transform: capitalize;
+  background-color: rgba(17, 17, 17, 1) !important;
+  font-family: 'Roboto', sans-serif !important;
+}
+a{
+  text-decoration: none !important;
+}

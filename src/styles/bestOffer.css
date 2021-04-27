@@ -1,0 +1,48 @@
+.best-offer__title{
+    position: relative;
+}
+.best-offer__title h2 {
+    font-size: 180px;
+    font-weight: bold;
+    opacity: .2;
+    margin: 20px 50px;
+}
+.best-offer__title h3 {
+    font-size: 60px;
+    font-weight: bold;
+    letter-spacing: 10px;
+    position: absolute;
+    top: 80px;
+    left: 120px;
+    color: #ffff00;
+}
+@media screen and (max-width: 280px){
+    .best-offer__title h3{
+        font-size: 23px;
+        left: 38px;
+        top: 17px;
+    }
+    .best-offer__title h2{
+        font-size: 50px;
+    }
+}
+@media screen and (max-width: 540px){
+    .best-offer__title h3{
+        font-size: 40px;
+        top: 26px;
+        left: 194px;
+    }
+    .best-offer__title h2{
+        font-size: 80px;
+    }
+}
+@media screen and (max-width: 460px){
+    .best-offer__title h3{
+        font-size: 40px;
+        top: 26px;
+        left: 100px;
+    }
+    .best-offer__title h2{
+        font-size: 80px;
+    }
+}

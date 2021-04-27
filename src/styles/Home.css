@@ -1,0 +1,11 @@
+.sponser-section{
+    overflow: hidden;
+}
+
+@media screen and (max-width: 540px){
+    .home{
+        text-align: center;
+    }
+}
+
+    

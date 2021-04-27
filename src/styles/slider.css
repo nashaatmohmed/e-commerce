@@ -1,0 +1,13 @@
+.slider__item{
+    height: 30vh;
+
+}
+.slider__item img{
+   height: 100%;
+}
+span.carousel-control-next-icon,
+span.carousel-control-prev-icon,
+ol.carousel-indicators
+{
+    display: none;
+}

@@ -1,0 +1,93 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 32px;
+    margin-top: 50px;
+    background: #151515;
+    padding: 20px;
+
+    position: relative;
+
+
+}
+
+.footer h3{
+    color: yellow;
+    margin-bottom: 20px;
+
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.footer ul a{
+    color: #fff;
+}
+
+.footer ul a:hover{
+    color: darkgray;
+}
+
+.socialMedia{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.socialMedia a{
+    margin-top: 10px;
+}
+
+svg.MuiSvgIcon-root {
+    font-size: 30px;
+   
+    transition: .3s ease-in-out;
+}
+.socialMedia a .one{
+    color: rgba(0, 0, 255,.5);
+}
+.socialMedia a .one:hover{
+    color: rgb(0, 0, 255);
+}
+
+.socialMedia a .two{
+    
+    color: rgba(0, 128, 0,.5);
+}
+.socialMedia a .two:hover{
+    color: rgb(0, 128, 0);
+}
+
+.socialMedia a .three{
+    
+    color: rgba(139, 0, 139,.5);
+}
+
+.socialMedia a .three:hover{
+    color: rgb(139, 0, 139);
+}
+
+.creator{
+    padding: 5px;
+    font-size: 1rem;
+    background-color: rgba(17, 17, 17, 1);
+    display: block !important;
+    white-space: nowrap;
+    width: 100%;
+    position: absolute;
+    bottom: -30px;
+  }
+  .creator span{
+    color: #d9f197;
+  }
+  .creator .icon{
+    color: #d9f197;
+      margin: 0 5px;
+      font-size: 20px;
+  }
+  
+
